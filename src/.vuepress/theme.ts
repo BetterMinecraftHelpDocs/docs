@@ -4,11 +4,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://bmchd.suto.eu.org/",
 
   author: {
     name: "BetterMinecraftHelpDocs Project",
-    url: "https://mister-hope.com",
+    url: "https://github.com/BetterMinecraftHelpDocs/",
   },
 
   iconAssets: "fontawesome-with-brands",

@@ -1,0 +1,2 @@
+# BetterMinecraftHelpDocs/docs
+这是 更好的我的世界文档的文档源代码，您可以通过fork后提交pr的方式来和我们一起编辑
