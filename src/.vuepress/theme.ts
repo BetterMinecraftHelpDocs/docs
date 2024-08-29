@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.png",
 
   repo: "BetterMinecraftHelpDocs/docs",
 
@@ -42,17 +42,17 @@ export default hopeTheme({
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
-  hotReload: false,
+  hotReload: true,
 
   // 在这里配置主题提供的插件
   plugins: {
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      repo: "BetterMinecraftHelpDocs/docs-community",
+      repoId: "R_kgDOMp0f7w",
+      category: "文档评论区",
+      categoryId: "DIC_kwDOMp0f784CiBiz",
     },
 
     components: {

@@ -22,9 +22,9 @@ export default navbar([
   //     },
   //   ],
   // },
-  {
-    text: "Github",
-    icon: "fa-brands fa-github",
-    link: "https://github.com/BetterMinecraftHelpDocs",
-  },
+  // {
+  //   text: "Github",
+  //   icon: "fa-brands fa-github",
+  //   link: "https://github.com/BetterMinecraftHelpDocs",
+  // },
 ]);
