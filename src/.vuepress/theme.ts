@@ -73,6 +73,7 @@ export default hopeTheme({
       mark: true,
       plantuml: true,
       spoiler: true,
+      alert: true,
       stylize: [
         {
           matcher: "Recommended",
