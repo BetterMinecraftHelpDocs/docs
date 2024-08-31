@@ -43,5 +43,5 @@ highlights:
         link: https://github.com/BetterMinecraftHelpDocs
       - title: QQ 群 435939222
         icon: fa-brands fa-qq
-        link: https://qm.qq.com/q/kyXFe0ss80
+        link: https://qm.qq.com/cgi-bin/qm/qr?k=Gtl-44kDoOKN-K5Y-63ds994w3YQt6m5&jump_from=webapi&authKey=HGKQWtQ3sCukqWmwIS7Jv26ek53L9GREhFeCl55qP1R/zpcgUvaFrbhi3eYROnK4
 
