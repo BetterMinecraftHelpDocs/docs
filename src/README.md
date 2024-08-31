@@ -41,7 +41,7 @@ highlights:
       - title: Github
         icon: fa-brands fa-github
         link: https://github.com/BetterMinecraftHelpDocs
-      - title: QQ群
+      - title: QQ 群
         icon: fa-brands fa-qq
-        details: 435939222
+        link: <https://qm.qq.com/q/kyXFe0ss80>
 
