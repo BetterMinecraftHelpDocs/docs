@@ -1,6 +1,6 @@
 ---
 
-title: 1.0.1 使用IPV4 公网进行联机
+title: 1.0.1 使用IPV4公网进行联机
 order: 1
 # 这是页面的图标
 icon: file
@@ -13,6 +13,7 @@ category:
 tag:
   - 游戏中
   - 联机
+  - IPV4
 # 此页面会在文章列表置顶
 sticky: true
 # 此页面会出现在星标文章中
@@ -21,6 +22,9 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 ---
 > [!warning]
 > 本文所需要公网IPV4地址 以及 一定的电脑常识
+
+> [!caution]
+> 注意：暴露在公网的设备可能会遭受网络攻击，若暂时没有服务需要，请把端口转发关闭
 
 1. 启动Minecraft
 
@@ -40,7 +44,7 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 本文以 11451 为例
 > [!caution]
-> 注意：在公网上关闭防火墙很危险，本文极其不推荐这样做
+> 注意：在公网上关闭防火墙很危险，本文极其不推荐这样做。
 
 4. 打开 [这里](https://myip.ipip.net/) 查看自己的IP地址
 
