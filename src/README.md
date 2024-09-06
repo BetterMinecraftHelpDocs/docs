@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: BetterMinecraftHhelpDocs
+heroText: BetterMinecraftHelpDocs
 tagline: 更好的我的世界帮助文档
 actions:
   - text: 快速开始游戏
