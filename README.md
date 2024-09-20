@@ -8,6 +8,7 @@ fork 这个仓库
 ```sh
 git clone forked-repo(在你fork的仓库里面有对应的git地址)
 cd docs
+npm i
 npm run docs:dev
 ```
 就可以开始编辑文档并且查看变化了  
