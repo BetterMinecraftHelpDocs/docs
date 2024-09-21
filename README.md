@@ -13,11 +13,9 @@ npm run docs:dev
 ```
 就可以开始编辑文档并且查看变化了 
 
->请先查看启动器内置帮助 最好不要撞车（当然写了就写了问题也不大
+请先查看
+[我应该注意些什么]([https://creativecommons.org/licenses/by-nc-sa/4.0/](https://github.com/BetterMinecraftHelpDocs/docs/wiki/%E5%A6%82%E4%BD%95%E7%BC%96%E8%BE%91%E6%96%87%E6%A1%A3))
 
-## Something For Homepage
-基于PCL2的代码问题 Homepage不支持GIF!!!!
-请使用使用JPG OR PNG
 
 扩展语法如
 >[!caution]等目前已解决 正常填写即可
