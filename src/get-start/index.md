@@ -31,10 +31,10 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 # 安装环境
 
-既然是“新手上路”，故本篇文章中将默认您使用的是 Windows 操作系统
+既然是“新手上路”，故本篇文章中将默认您使用的是 Windows 操作系统 !!白嫖!!!
 「本wiki所述内容，（仅）建议有基础计算机操作能力。如果你无法理解本wiki中讲解部分内容，推荐Baidu.com或其他学习网站。」
 
-!!所有的安装无脑 next/下一步 即可!!
+!!所有的安装无脑 next/下一步 即可!! 
 
 - 在游玩 1.12.2 及以下的版本时，我们推荐您使用 [Java8 甲骨文发行版](https://www.java.com/zh-CN/download/)进行游玩。点击 “下载Java” 按钮下载文件并安装即可
 - 在游玩 1.13-1.16.5 的版本时，我们推荐您使用 [Java8 龙井JDK](https://dragonwell-jdk.io/#/index)进行游玩。![1.png](./1.png)照这样子选择即可
