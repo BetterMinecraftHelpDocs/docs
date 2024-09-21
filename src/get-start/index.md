@@ -34,7 +34,7 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 > [!caution] 
 > 游玩前请认真阅读和遵守[Minecraft 最终用户许可协议 (“EULA”)](https://www.minecraft.net/zh-hans/eula)
 
-既然是“新手上路”，故本篇文章中将默认您使用的是 Windows 操作系统 !!白嫖!!!
+既然是“新手上路”，故本篇文章中将默认您使用的是 Windows 操作系统
 「本wiki所述内容，（仅）建议有基础计算机操作能力。如果你无法理解本wiki中讲解部分内容，推荐Baidu.com或其他学习网站。」
 
 !!所有的安装无脑 next/下一步 即可!! 
