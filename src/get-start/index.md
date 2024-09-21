@@ -29,7 +29,10 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 # 简介
 在"新手上路"这一篇文章中会教您如何使用"离线模式"进行我的世界Java版本的游玩
 
-# 安装环境
+## 安装环境
+
+> [!caution] 
+> 游玩前请认真阅读和遵守[Minecraft 最终用户许可协议 (“EULA”)](https://www.minecraft.net/zh-hans/eula)
 
 既然是“新手上路”，故本篇文章中将默认您使用的是 Windows 操作系统
 「本wiki所述内容，（仅）建议有基础计算机操作能力。如果你无法理解本wiki中讲解部分内容，推荐Baidu.com或其他学习网站。」
@@ -41,14 +44,14 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 - 在游玩 1.17 及以上版本时，我们推荐您使用 [Java21 龙井JDK](https://dragonwell-jdk.io/#/index) 或 [Java21 Zulu JRE](https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu)进行游玩。龙井的下载仅需将上图的"Dragonwell 8"改为"Dragonwell 21"即可，Zulu的话如下图操作即可 ![2.png](./2.png)
 - 当然，我们也准备了一些不同的JDK供您选择 [Hotspot JDK/JRE](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/)（由清华大学镜像站提供加速下载）、[OpenJ9/Semeru JDK/JRE](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/)（可极大的优化运行内存，但同时也带来了一些问题）!!至于为什么这个JDK有两个名字，那就得问问万恶的IMB了((!!
 
-# 启动器的下载以及游戏的启动
+## 启动器的下载以及游戏的启动
 本篇文章中默认为使用离线模式进行我的世界Java版本的游玩，故暂不介绍 Minecraft 官方启动器。
 
 离线模式并非盗版，Mojang Studio允许游戏玩家先体验游戏后进行购买，离线模式是先行体验游戏的一种方式，也是无法联网进行游戏的一种方式。有条件的可以前往 [Microsoft Store](https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9NXP44L49SHJ/0010) 或 [Minecraft 官网](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc) 进行购买
 
 本篇文章使用PCL2启动器作为教学。您可以从[这里](https://afdian.com/p/0164034c016c11ebafcb52540025c377)下载PCL2正式版。
 
-## 第一步：下载游戏
+### 第一步：下载游戏
 
 1. 打开PCL2启动器
 
@@ -64,7 +67,7 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 ![下载游戏流程图](./3.png)
 
-## 第二步：启动游戏
+### 第二步：启动游戏
 
 1. 点击顶栏的"启动"
 
