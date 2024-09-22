@@ -44,12 +44,12 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 - 先来看一下Windows11资源管理器显示文件的方式
 
-![1.png](./1.png)
+![1.png](./unzip-1.png)
 
 ::: tip 【关于】为什么没有.xxx显示扩展名？
 在Windows11中，你可以按工具栏的查看-显示-勾选文件扩展名来显示文件的扩展名
 
-![2.png](./2.png =x350)
+![2.png](./unzip-2.png =x350)
 :::
 
 - 由此可见，此文件是一个[zip]格式的压缩文件
@@ -62,6 +62,6 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 - 选择合适的**路径**，解压后的文件会在您选择的路径出现
 
-![3.gif](./3.gif)
+![3.gif](./unzip-3.gif)
 
 - 未完待续...
