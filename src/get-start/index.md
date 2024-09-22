@@ -40,8 +40,8 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 !!所有的安装无脑 next/下一步 即可!! 
 
 - 在游玩 1.12.2 及以下的版本时，我们推荐您使用 [Java8 甲骨文发行版](https://www.java.com/zh-CN/download/)进行游玩。点击 “下载Java” 按钮下载文件并安装即可
-- 在游玩 1.13-1.16.5 的版本时，我们推荐您使用 [Java8 龙井JDK](https://dragonwell-jdk.io/#/index)进行游玩。![1.png](./1.png)照这样子选择即可
-- 在游玩 1.17 及以上版本时，我们推荐您使用 [Java21 龙井JDK](https://dragonwell-jdk.io/#/index) 或 [Java21 Zulu JRE](https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu)进行游玩。龙井的下载仅需将上图的"Dragonwell 8"改为"Dragonwell 21"即可，Zulu的话如下图操作即可 ![2.png](./2.png)
+- 在游玩 1.13-1.16.5 的版本时，我们推荐您使用 [Java8 龙井JDK](https://dragonwell-jdk.io/#/index)进行游玩。![1.png](./index-1.png)照这样子选择即可
+- 在游玩 1.17 及以上版本时，我们推荐您使用 [Java21 龙井JDK](https://dragonwell-jdk.io/#/index) 或 [Java21 Zulu JRE](https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu)进行游玩。龙井的下载仅需将上图的"Dragonwell 8"改为"Dragonwell 21"即可，Zulu的话如下图操作即可 ![2.png](./index-2.png)
 - 当然，我们也准备了一些不同的JDK供您选择 [Hotspot JDK/JRE](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/)（由清华大学镜像站提供加速下载）、[OpenJ9/Semeru JDK/JRE](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/)（可极大的优化运行内存，但同时也带来了一些问题）!!至于为什么这个JDK有两个名字，那就得问问万恶的IMB了((!!
 
 ## 启动器的下载以及游戏的启动
@@ -65,7 +65,7 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 流程图：
 
-![下载游戏流程图](./3.png)
+![下载游戏流程图](./index-3.png)
 
 ### 第二步：启动游戏
 
@@ -79,7 +79,7 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 流程图：
 
-![启动游戏流程图](./4.png)
+![启动游戏流程图](./index-4.png)
 
 ## 常见错误：
 
@@ -99,4 +99,4 @@ copyright: Copyright © 2024 BetterMinecraftHelpDocs Project
 
 流程图：
 
-![Java不可用流程](./5.png)
+![Java不可用流程](./index-5.png)

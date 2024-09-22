@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: （未完成）模组游玩快速入门
+title: 模组游玩快速入门
 # 你可以自定义封面图片
 cover: /assets/images/cover1.jpg
 # 这是页面的图标
@@ -56,7 +56,7 @@ PCL2、HMCL均支持在安装客户端时自动安装模组加载器，具体情
 > [!tip]
 > 模组加载器互不兼容，一个游戏仅能安装一个模组加载器
 
-|模组加载器|PCL2|HMCL|BakaXL|MulitiMC
+|模组加载器|PCL2|HMCL|BakaXL|MulitiMC|
 |---|---|---|---|---|
 |Forge|✅|✅|✅|✅|
 |NeoForge|✅|✅|✅|✅|
@@ -68,7 +68,7 @@ PCL2、HMCL均支持在安装客户端时自动安装模组加载器，具体情
 > 通常在自动安装界面，还有一个叫做OptFine的东西   
 > [OptFine](https://optifine.net/home)（高清修复）对游戏增加了光影支持，动态光源，更精细的纹理包支持（1.5.2+）等功能    
 > 但由于OptFine对原版jar的破坏性修改导致1.12.2以上的版本兼容性并不好，并且可能导致各种各样的奇怪问题（详见[MC百科](https://www.mcmod.cn/class/36.html)）  
-> 故我们建议，在1.13及以上版本且**安装模组加载器的情况下** 使用   
+> 故我们建议，在**1.13及以上版本**且**安装模组加载器的情况下** 使用   
 > [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)+ 
 > [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)(Forge/NeoForge)   
 > [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)+
@@ -76,22 +76,50 @@ PCL2、HMCL均支持在安装客户端时自动安装模组加载器，具体情
 > 代替OptFine的功能   
 > !!HMCL为了避免这种问题直接将OptFine和加载器设为了不兼容!!   
 > !!PCL2 xD群著名群员Wudust曾说过：“由OptFine导致的任何问题都不予解决”!!  
-> !!所以当你的游戏安装模组后崩溃，首先把OptFine干掉!!
-> ![龙猫的告诫](mpfs-3.jpg)
+> !!所以当你的游戏安装模组后崩溃，首先把OptFine干掉!!   
+> ![龙猫的告诫](mpfs-3.jpg =x70)
 
 ### PCL2
 
 ![PCL2自动安装界面](mpfs-1.png)   
-这是PCL2的自动安装界面，在右侧选择你要安装的游戏版本，此处我们以1.20.1为例
-
-选择游戏版本，进入安装详情界面    
-![PCL2安装详情](mpfs-2.png)
-
+这是PCL2的自动安装界面，位于`下载->自动安装`    
+在右侧选择你要安装的游戏版本，此处我们以1.20.1为例    
+选择游戏版本，进入安装详情界面      
+![PCL2安装详情](mpfs-2.png)   
 在此处选择要安装的模组加载器，建议直接选择最新版，然后点击开始安装
+
+> [!tip]
+> 安装Fabric同时要安装FabricAPI，一般都选择最新版本即可
+
+> [!warning]
+> 如果出现自动安装模组加载器失败或下载极慢，尝试`更新启动器`并检查网络环境/在全局设置中设置镜像源优先
 
 ### HMCL
 
-## 安装模组
+## 下载/安装模组
 
-!!这应该是个人都会所以待会再写!!
+Minecraft的模组文件是一个`.jar`结尾的Java归档文件     
+将其放入`.minecraft/version/versionname/mods/`以使它被加载
 
+通常可以在[CurseForge](https://www.curseforge.com/)、[Modrinth](https://modrinth.com/)下载到模组文件
+
+### PCL2
+
+在PCL2的`下载->Mod`进行Mod搜索，Mod来源于前文中的网站   
+![PCL2模组下载](mpfs-4.png)
+![PCL2模组信息概览](mpfs-5.png)
+
+点击你要下载的Mod，进入版本选择页面     
+![PCL2模组下载详情页](mpfs-6.png)
+
+确认好模组加载器和游戏版本对应后，点击对应版本    
+选择模组保存位置，默认为**PCL2主页选中的版本**的`mods`文件夹
+
+点击`保存`，PCL2会开始Mod下载
+
+> [!warning]
+> 如果你的下载速度极慢或无法下载，请检查网络环境/在全局设置中设置镜像源优先
+
+## 游玩
+启动游戏后，按对应模组的操作方式使用即可    
+帮助：[MC百科](https://www.mcmod.cn/)
