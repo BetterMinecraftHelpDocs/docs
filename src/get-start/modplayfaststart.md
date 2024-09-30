@@ -67,12 +67,12 @@ PCL2、HMCL均支持在安装客户端时自动安装模组加载器，具体情
 > [!important]
 > 通常在自动安装界面，还有一个叫做OptFine的东西   
 > [OptFine](https://optifine.net/home)（高清修复）对游戏增加了光影支持，动态光源，更精细的纹理包支持（1.5.2+）等功能    
-> 但由于OptFine对原版jar的破坏性修改导致1.12.2以上的版本兼容性并不好，并且可能导致各种各样的奇怪问题（详见[MC百科](https://www.mcmod.cn/class/36.html)）  
+> 但由于OptFine对原版jar的破坏性修改导致在1.12.2以上的版本兼容性表现不佳（详见[MC百科](https://www.mcmod.cn/class/36.html)）  
 > 故我们建议，在**1.13及以上版本**且**安装模组加载器的情况下** 使用   
 > [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)+ 
 > [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)(Forge/NeoForge)   
 > [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)+
-> [Iris Shaders](https://www.irisshaders.dev)(Fabric/Quilt)   
+> [Iris Shaders](https://www.irisshaders.dev)(Fabric/Quilt/NeoForge1.16+)   
 > 代替OptFine的功能   
 > !!HMCL为了避免这种问题直接将OptFine和加载器设为了不兼容!!   
 > !!PCL2 xD群著名群员Wudust曾说过：“由OptFine导致的任何问题都不予解决”!!  
