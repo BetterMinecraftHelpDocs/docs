@@ -1,7 +1,7 @@
 ---
 title: 0.0.1 前言
 dir:
-  order: 2
+  order: 3
   text: Windows基础
 order: 1
 # 这是页面的图标
